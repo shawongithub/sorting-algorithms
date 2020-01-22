@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1579599348 source:c:\users\dell\desktop\c and c++\sorting\selection_sort\selection_sort.cpp
+	<stdio.h>
+	<stdlib.h>
+

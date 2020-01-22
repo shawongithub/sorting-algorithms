@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1579588603 source:c:\users\dell\desktop\c and c++\sorting\insertion_sort\insertion_sort.cpp
+	<stdio.h>
+	<stdlib.h>
+
